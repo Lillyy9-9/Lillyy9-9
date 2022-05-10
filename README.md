@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lillyy9-9
+- 👋 Hi, I’m @Lilly
 - 👀 I’m interested in c#
 - 🌱 I’m currently learning HTML & javascript
 - 💞️ I’m looking to collaborate on ,,,
